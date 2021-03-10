@@ -1,0 +1,40 @@
+.right{
+  margin-left: 100px;
+  text-align: center;
+}
+.row{
+  width: 670px;
+  height: 65px;
+  margin: 2px;
+  margin-left: 30px;
+  padding: 0;
+}
+.stoel{
+  float: left;
+    width: 62px;
+    height: 62px;
+    margin: 2px;
+    padding: 0;
+}
+.buttonempty{
+  height: 50px;
+  background-color: white;
+}
+.buttontaken{
+  height: 50px;
+  background-color: white;
+}
+.button:active{
+  background-color: grey;
+}
+
+.taken { 
+  height: 50px;
+background: black;
+color: white;
+}
+
+.empty{
+  height: 50px;
+  background-color: white;
+}
